@@ -1,4 +1,4 @@
-# MAQSUDJON - Kripto Tizimlar Loyihasi
+# MAQSUDJON - Kriptotizimlar Loyihasi
 # O'rnatish va ishga tushirish bo'yicha qo'llanma
 
 ## 📋 Talablar
@@ -211,4 +211,4 @@ Hisobot uchun quyidagi skrinshotlarni oling:
 
 **Talaba:** MAQSUDJON  
 **Sana:** 2026  
-**Fan:** Kripto Tizimlar
+**Fan:** Kriptotizimlar
