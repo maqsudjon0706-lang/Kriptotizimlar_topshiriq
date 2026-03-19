@@ -3,7 +3,7 @@
 ## 📋 Umumiy ma'lumot
 
 **Talaba:** MAQSUDJON  
-**Fan:** Kripto Tizimlar  
+**Fan:** Kriptotizimlar  
 **Sana:** 2026  
 **Loyiha mavzusi:** OpenSSL yordamida TLS sertifikat yaratish va himoyalangan veb-tizim
 
