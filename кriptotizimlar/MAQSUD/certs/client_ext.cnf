@@ -1,0 +1,6 @@
+
+[client_ext]
+authorityKeyIdentifier=keyid,issuer
+basicConstraints=CA:FALSE
+keyUsage = digitalSignature
+extendedKeyUsage = clientAuth

@@ -1,0 +1,15 @@
+
+[req]
+default_bits = 2048
+prompt = no
+default_md = sha256
+distinguished_name = dn
+
+[dn]
+C = UZ
+ST = Tashkent
+L = Tashkent
+O = MAQSUDJON Users
+OU = Client Authentication
+CN = MAQSUDJON Client
+emailAddress = maqsudjon@example.com
