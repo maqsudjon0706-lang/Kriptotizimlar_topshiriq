@@ -1,4 +1,4 @@
-# MAQSUDJON - Kripto Tizimlar Loyihasi Hisoboti
+# MAQSUDJON - Kriptotizimlar Loyihasi Hisoboti
 
 ## 📋 Umumiy ma'lumot
 
