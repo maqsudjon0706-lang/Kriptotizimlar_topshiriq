@@ -1,4 +1,4 @@
-# MAQSUDJON - Kripto Tizimlar Loyihasini Tekshirish
+# MAQSUDJON - Kriptotizimlar Loyihasini Tekshirish
 
 ## ✅ Barcha fayllar yaratildi!
 
