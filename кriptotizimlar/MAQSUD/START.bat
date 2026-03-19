@@ -3,7 +3,7 @@ chcp 65001 >nul
 cls
 
 echo ============================================================
-echo MAQSUDJON - Kripto Tizimlar Loyihasi
+echo MAQSUDJON - Kriptotizimlar Loyihasi
 echo ============================================================
 echo.
 echo Tanlang:
