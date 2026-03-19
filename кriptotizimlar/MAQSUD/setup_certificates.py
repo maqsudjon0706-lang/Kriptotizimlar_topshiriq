@@ -1,4 +1,4 @@
-# MAQSUDJON - Kripto Tizimlar Loyihasi
+# MAQSUDJON - Kriptotizimlar Loyihasi
 # OpenSSL yordamida TLS sertifikat yaratish va himoyalangan veb-tizim
 
 import os
