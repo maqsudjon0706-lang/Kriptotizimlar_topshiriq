@@ -217,19 +217,7 @@ http://10.99.228.234:5000
 
 ---
 
-## 📊 Baholash Jadvali
 
-| № | Mezoni | Ball | Holat |
-|---|--------|------|-------|
-| 1 | Root CA to'g'ri yaratish | 2 | ✅ |
-| 2 | Server sertifikati | 2 | ✅ |
-| 3 | Client sertifikati + 2FA | 2 | ✅ |
-| 4 | Root CA ni tizimga qo'shish | 1 | ✅ |
-| 5 | HTTPS server ishlashi | 1 | ✅ |
-| 6 | Login va rol mexanizmi | 2 | ✅ |
-| 7 | Argon2id sozlash | 1 | ✅ |
-| 8 | ECDH + AES-256-GCM | 1 | ✅ |
-| **JAMI** | | **12** | **✅✅✅** |
 
 ---
 
@@ -272,21 +260,7 @@ MAQSUD/
 └── users.db                    # SQLite bazasi
 ```
 
----
 
-## 🎯 Loyiha Maqsadlari - BAJARILDI
-
-✅ Lokal tarmoqda ishlaydigan xavfsiz veb-tizim yaratildi  
-✅ O'z sertifikatlash markazi (Root CA) tashkil etildi  
-✅ Server va foydalanuvchi uchun alohida kalitlar yaratildi  
-✅ Sertifikatlar Windows trusted root ga qo'shildi  
-✅ Saytga kirishda login va parol orqali identifikatsiya  
-✅ Foydalanuvchilarga rol berish va ruxsatlarni cheklash  
-✅ Parollarni zamonaviy talablar asosida tekshirish va Argon2id  
-✅ Server va mijoz o'rtasida ECDH + HKDF + AES-256-GCM  
-✅ Barcha jarayonlar hujjatlashtirildi  
-
----
 
 ## 🔐 Xavfsizlik Xususiyatlari
 
@@ -308,22 +282,7 @@ MAQSUD/
 
 ---
 
-## 📸 Kerakli Skrinshotlar
 
-Hisobotga quyidagi skrinshotlarni qo'shing:
-
-1. ✅ Root CA sertifikati ma'lumotlari (`openssl x509 -in certs/maqsudjon_root_ca.crt -text -noout`)
-2. ✅ Server sertifikati ma'lumotlari
-3. ✅ Client sertifikati ma'lumotlari
-4. ✅ Windows Trusted Root da MAQSUDJON Root CA (`certutil -store root`)
-5. ✅ HTTPS sayt brauzerda (qulfu belgisi bilan)
-6. ✅ Login sahifasi
-7. ✅ Admin panel (foydalanuvchilar ro'yxati)
-8. ✅ Argon2id hash bazada (users.db)
-9. ✅ /demo sahifasi (ECDH + AES demo)
-10. ✅ Boshqa qurilmadan kirish (telefon yoki ikkinchi kompyuter)
-
----
 
 ## 🚀 Ishga Tushirish Buyruqlari
 
@@ -387,5 +346,3 @@ Ushbu loyihada zamonaviy kriptografik vositalar yordamida to'liq himoyalangan ve
 ---
 
 **Talaba:** MAQSUDJON  
-**Imzo:** _________________  
-**Sana:** 18 Mart, 2026
